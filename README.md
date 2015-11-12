@@ -14,7 +14,7 @@ To mask the LEDs from looking like distinct bulbs, and to also make it more appe
 
 ![Network Strength Simulation](/Components/AmbientDisplayPics.jpg)
 
-#### Read the detailed instructions here [Instructable Article]()
+#### Read the detailed instructions here [Instructable Article](http://www.instructables.com/id/Network-Strength-Display/)
 
 ### Components Used
 ---
