@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 ### Building Ambient Display
 ## Network Strength Simulation
 Visualizing IoT data of SparkFun sensors using different Web APIs, JavaScript libraries & CSS 3 (3D Transforms).
 
-####[Instructable]()
+####[Instructable Article]()
 
 ### Description
 ---
@@ -40,11 +39,3 @@ This project is grateful to various Web APIs and JavaScript frameworks. Here are
 ### Contributors
 ---
 Want to be one? Drop your GitHub username in comments. I will add you in the list. :)
-
-### License
----
-MIT License.
-=======
-# NetworkStrengthDisplay
-Building an Ambient Display for Network Strength Display
->>>>>>> origin/master
