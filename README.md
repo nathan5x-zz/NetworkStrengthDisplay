@@ -1,4 +1,4 @@
-### Building an Ambient Display
+#### Building an Ambient Display
 ## Network Strength Simulation
 ​An Ambient Display which visually depicts the strength of the wifi signal. It has 2 LED strips. One for indicating the download speed, the other for the upload speed. The upload speed strip has lights flowing upwards in a set of 3, while the download strip has lights trickling down. The speed with which the light flows, indicate the appropriate strength of the signal.
 
@@ -14,23 +14,27 @@ To mask the LEDs from looking like distinct bulbs, and to also make it more appe
 
 ![Network Strength Simulation](/Components/AmbientDisplayPics.jpg)
 
-####[Instructable Article]()
+#### Read the detailed instructions here [Instructable Article]()
 
 ### Components Used
 ---
-##### Kit
-Sparkfun Photon Kit
+1. 2nos. 12V Peristaltic Pump: http://www.adafruit.com/products/1150
+2. RGB LED Strip: https://www.adafruit.com/products/1460
+3. Black Coloured Cast Acrylic - 1 sheet
+4. Clear Cast Acrylic - 1 sheet
+5. Particle Photon
+6. 5V Adapter
+7. Soft Ply Wood
+8. 12V DC power supply
 
-##### Sensors
 
+### Components
 
-##### LEDs
-
-[Circuit layouts can be viewed here](https://github.com/nathan5x/IoT-DataViz/tree/master/CircuitLayouts)
+[Circuit layouts and Components can be viewed here](https://github.com/nathan5x/NetworkStrengthDisplay/tree/master/Components)
 
 ### Motivation
 ---
-Inspired by number of dashboards at various places like Airport, Stock Markets, and Weather Monitoring Station.
+Inspired by
 
 ### API Reference
 ---
