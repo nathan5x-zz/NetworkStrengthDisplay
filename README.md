@@ -31,7 +31,7 @@ To mask the LEDs from looking like distinct bulbs, and to also make it more appe
 
 ### Motivation
 ---
-Inspired by
+
 
 ### API Reference
 ---
