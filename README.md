@@ -36,7 +36,10 @@ Based on these ranges, we have set the LED speeds arbitrarily to a value which m
 
 ### Motivation
 ---
-
+Water to be used a medium for ambient display:
+[Data Fountain](http://www.koert.com/work/datafountain/)
+3 fountains displaying the exchange rates of 3 currencies: Euro, Pound, and the Yen
+The tallest fountain is the most expensive.
 
 ### API Reference
 ---
