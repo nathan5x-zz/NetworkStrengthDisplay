@@ -12,11 +12,12 @@ Yellow Lights, Medium Brightness, Average speed
 ##### High Speed:
 Upload: Blue Lights, Bright Lights, High speed of flow  and Download: Green Lights, Bright Lights, High speed of flow
 
-To mask the LEDs from looking like distinct bulbs, and to also make it more appealing, we have used a water dispenser to create a "Water Wall effect". This is optional and is being only used for aesthetic purposes. (Please note: There is no direct 1-to-1 mapping between the signal strength in bytes/sec to the LED flow. We have identified a range for what can be considered as "High Speed", "Medium Speed", and "Low Speed" based on the standards mentioned here: http://www.speedguide.net/faq/how-does-rssi-dbm-relate-to-signal-quality-percent-439.
+To mask the LEDs from looking like distinct bulbs, and to also make it more appealing, we have used a water dispenser to create a "Water Wall effect". This is optional and is being only used for aesthetic purposes.
 
-Based on these ranges, we have set the LED speeds arbitrarily to a value which makes them visually distinguishable)
+(Please note: There is no direct 1-to-1 mapping between the signal strength in bytes/sec to the LED flow. We have identified a range for what can be considered as "High Speed", "Medium Speed", and "Low Speed" based on the standards mentioned here: [Speedguide](http://www.speedguide.net/faq/how-does-rssi-dbm-relate-to-signal-quality-percent-439)
+Based on these ranges, we have set the LED speeds arbitrarily to a value which makes them visually distinguishable.)
 
-#### Read the detailed instructions here [Instructable Article](http://www.instructables.com/id/Network-Strength-Display/)
+##### Read the detailed instructions here : [Instructable Article](http://www.instructables.com/id/Network-Strength-Display/)
 
 ### Components Used
 ---
@@ -42,13 +43,13 @@ Based on these ranges, we have set the LED speeds arbitrarily to a value which m
 This project is grateful to various Web APIs and JavaScript frameworks. Here are the list of references,
 
 * [jQuery](https://jquery.com/)
- - jQuery for all the DOM Manipulations.
+jQuery for all the DOM Manipulations.
 
 * [Twitter Bootstrap](http://getbootstrap.com/)
- - Elegant CSS and JS framework for building responsive, and mobile first projects.
+Elegant CSS and JS framework for building responsive, and mobile first projects.
 
 * [Custom Creative Bootstrap Theme](http://startbootstrap.com/template-overviews/creative/)
- - Custom Bootstrap theme.
+Custom Bootstrap theme.
 
 ### Contributors
 ---
