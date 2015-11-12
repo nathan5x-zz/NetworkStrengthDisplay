@@ -27,10 +27,7 @@ To mask the LEDs from looking like distinct bulbs, and to also make it more appe
 7. Soft Ply Wood
 8. 12V DC power supply
 
-
-### Components
-
-[Circuit layouts and Components can be viewed here](https://github.com/nathan5x/NetworkStrengthDisplay/tree/master/Components)
+[Physical layouts and Components can be viewed here](https://github.com/nathan5x/NetworkStrengthDisplay/tree/master/Components)
 
 ### Motivation
 ---
